@@ -10,15 +10,6 @@ h2{
     background-color: rgb(212, 177, 177);
     color: white;
 }
-.col-form-label{
-    font-weight: bold;
-}
-.border{
-    border: 5px solid red;
-}
-form:hover form{
-    background-color: white;
-}
 h1{
     color:#CE0033 ;
     font-size: 5vh;
@@ -28,25 +19,15 @@ h3{
     color: white;
 }
 footer{
-   
+    height: 200px;
     background-color:#CE0033  ;
+    margin-top: 60px;
 }
 .paragraph{
     color: white;
     font-size: 15vh;
-     background-color:#CE0033;
 }
 .paragraph1{
     color: white;
     font-size: 2vh;
-    background-color:#CE0033;
-}
-.sectright{
-    height: 80vh;
-    background-color: #CE0033;
-}
-table{
-    background-color:gray;
-    margin-top:40px;
-    margin: 15px 15px 15px 15px;
 }
